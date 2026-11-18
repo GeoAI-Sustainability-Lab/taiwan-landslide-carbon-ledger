@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "If you use this code or data, please cite the Zenodo record of this repository."
+title: "taiwan-landslide-carbon-ledger: national annual ledger of forest living-biomass carbon lost to and re-accumulated after landslides in Taiwan, 2004–2025"
+version: 1.0.0
+date-released: 2026-11-19
+license: MIT
+repository-code: "https://github.com/GeoAI-Sustainability-Lab/taiwan-landslide-carbon-ledger"
+authors:
+  - family-names: Hsu
+    given-names: Yu-Chun
+    orcid: "https://orcid.org/0000-0002-6616-6906"
+    affiliation: "Department of Forestry, National Chung Hsing University, Taichung, Taiwan"
+keywords:
+  - landslide
+  - forest carbon
+  - living biomass
+  - natural disturbance
+  - gain-loss method
+  - canopy height
+  - post-disturbance recovery
+  - national greenhouse gas inventory
+  - Taiwan

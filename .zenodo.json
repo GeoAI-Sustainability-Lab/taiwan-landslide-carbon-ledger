@@ -1,0 +1,26 @@
+{
+  "title": "taiwan-landslide-carbon-ledger: national annual ledger of forest living-biomass carbon lost to and re-accumulated after landslides in Taiwan, 2004–2025 (code, derived tables and figures)",
+  "upload_type": "software",
+  "description": "Code, derived tables and figures for a national annual ledger of forest living-biomass carbon removed by catalogued landslides in Taiwan and re-accumulated on the scars, 2004–2025, compared with the disturbance-loss term of the national greenhouse gas inventory. The ledger applies the IPCC gain-loss method on a 30 m grid: the event-based landslide catalogue gives the activity data; the stand stock of the fourth national forest inventory, scaled by the measured pre-failure canopy stature of the failing cells (CHMv2 with image dates), gives the stock removed; and canopy-height recovery gives the re-accumulation. Independent checks use the third-inventory photo points, the official annual landslide maps 2017–2024 and GEDI L4A footprints. Includes the data-preparation scripts, the analysis pipeline, the results tables with bootstrap replicates and the figures.",
+  "creators": [
+    {
+      "name": "Hsu, Yu-Chun",
+      "affiliation": "Department of Forestry, National Chung Hsing University, Taichung, Taiwan",
+      "orcid": "0000-0002-6616-6906"
+    }
+  ],
+  "version": "1.0.0",
+  "license": "MIT",
+  "keywords": [
+    "landslide",
+    "forest carbon",
+    "living biomass",
+    "natural disturbance",
+    "gain-loss method",
+    "canopy height",
+    "post-disturbance recovery",
+    "national greenhouse gas inventory",
+    "Taiwan"
+  ],
+  "notes": "Derived tables and figures carry the attributions listed in DATA_LICENSE.md (ARDSWC landslide inventories; Fourth National Forest Resource Inventory maps, Open Government Data License Taiwan v1.0; CHMv2; Global Forest Change; GEDI L4A; ALOS-2 PALSAR-2; Landsat; Copernicus Sentinel-2; national greenhouse gas inventory 2026)."
+}

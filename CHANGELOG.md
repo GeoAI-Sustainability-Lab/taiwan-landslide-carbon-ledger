@@ -1,5 +1,9 @@
 # Changelog
 
+## Unreleased — 2026-11-19
+
+- README and CITATION.cff: Zenodo DOI of v1.0.0 (10.5281/zenodo.24350620) and the concept DOI for all versions (10.5281/zenodo.24350619).
+
 ## v1.0.0 — 2026-11-19
 
 - First release: data-preparation scripts, analysis pipeline (catalogue rasterisation, cell table, relative canopy height,

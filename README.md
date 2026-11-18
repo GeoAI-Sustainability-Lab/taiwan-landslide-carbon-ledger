@@ -1,5 +1,7 @@
 # Living-biomass carbon lost to and re-accumulated after landslides in Taiwan, 2004–2025
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24350620.svg)](https://doi.org/10.5281/zenodo.24350620)
+
 Code, derived tables and figures for a national annual ledger of forest living-biomass carbon removed by catalogued landslides
 in Taiwan and re-accumulated on the scars, 2004–2025, and for its comparison with the disturbance-loss term of the national
 greenhouse gas inventory. The ledger follows the gain–loss method of the IPCC guidelines on a 30 m grid: the event-based
@@ -96,7 +98,9 @@ Grid: TWD97 / TM2 zone 121 (EPSG:3826), 30 m, upper-left corner (151050, 2798910
 
 ## Citation
 
-Please cite the Zenodo record of this repository (see `CITATION.cff`).
+Hsu, Y.-C. (2026). taiwan-landslide-carbon-ledger: national annual ledger of forest living-biomass carbon lost to and
+re-accumulated after landslides in Taiwan, 2004–2025 (code, derived tables and figures), version 1.0.0. Zenodo.
+https://doi.org/10.5281/zenodo.24350620 (all versions: https://doi.org/10.5281/zenodo.24350619). See also `CITATION.cff`.
 
 ## Licence
 
